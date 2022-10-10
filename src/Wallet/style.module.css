@@ -1,0 +1,41 @@
+.walletWrapper {
+  width: 580px;
+  height: 755px;
+  background-color: #E5E5E5;
+}
+
+.walletHeading {
+  color: #004DFF;
+}
+
+.walletContent {
+
+}
+
+.lisItem {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+}
+
+.item {
+  margin-right: 20px;
+  margin-top: 20px;
+}
+
+.btnName {
+  background-color: #fff;
+  min-width: 150px;
+  border: none;
+  height: 45px;
+  border-radius: 15px;
+}
+.btnIndex {
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  border: none;
+  background-color: #BBCFFB;
+  margin-left: 7px;
+  margin-top: 6px;
+}
